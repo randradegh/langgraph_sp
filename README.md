@@ -54,3 +54,24 @@ Se requiere la instalación de las siguientes dependencias:
 ## Uso
 
 Abre el Notebook principal:
+
+```bash
+jupyter notebook langgraph_sp.ipynb
+```
+
+El proyecto ejecuta un flujo de trabajo interactivo que utiliza herramientas externas para responder a consultas, como la información del clima.
+
+## Estructura del Proyecto
+
+- **langgraph_sp.ipynb**: Notebook principal con la lógica de ejecución y definición de flujos.
+- **.cursorrules**: Archivo de configuración para personalizar los mensajes y comportamientos durante la ejecución.
+- **README.md**: Este archivo.
+- Otros archivos y carpetas de soporte.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto o reportar algún error, por favor, abre un *issue* o envía un *pull request*.
+
+## Licencia
+
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
